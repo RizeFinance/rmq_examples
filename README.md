@@ -1,4 +1,4 @@
-# Rize Message Queue Examples [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Rize Message Queue Examples [![Awesome](https://awesome.re/badge.svg)](https://rizefs.com)
 
 [<img src="https://investorjunkie.com/wp-content/uploads/2017/11/rize-2.png" width="160" align="right" alt="eslint">](http://eslint.org)
 
