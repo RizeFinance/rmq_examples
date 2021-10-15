@@ -13,7 +13,7 @@
 1) `PROGRAM_UID` Found in the Rize Admin Developer Launchpad
 2) `PROGRAM_HMAC` Found in the Rize Admin Developer Launchpad
 3) `RIZE_ENV` Accepted values: sandbox, integration, production
-4) `RMQ_HOSTS` Given by a Rize Program Manage, differs per `RIZE_ENV`
+4) `RMQ_HOSTS` Given by a Rize Program Manager, differs per `RIZE_ENV`
 5) `RMQ_CLIENT_ID` Unique value for the broker to identify the client. `ex: company-prototype-app`
 6) `RMQ_TOPIC` Found in the Rize Admin Developer Launchpad under Program Configs
 7) `RMQ_USERNAME` Found in the Rize Admin Developer Launchpad under Program Configs
